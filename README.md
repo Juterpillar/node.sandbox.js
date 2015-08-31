@@ -1084,3 +1084,4 @@ We should switch from using the react client side JSX transformer to a build pro
 ## Caveats
 
 React is a fast moving framework and this was my first time using it - what's here works, but it may not continue to do so as react changes. As it is a young framework "best practice" is still a bit nebulous, not everything depicted here is necessarily the "best" way of achieving a thing.
+# node.sandbox.js
